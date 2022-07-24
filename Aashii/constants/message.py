@@ -110,10 +110,10 @@ class Message:
     )
 
     HELP_PRIVATE = (
-        "<b>Welcome to A GRoUP Of eBooKz® Support Bot 👋</b>\n\n"
+        "<b>Welcome to Audoroom Support Bot 👋</b>\n\n"
         "Please note, that this bot is for contacting admins "
-        "of <b>A GRoUP Of eBooKz®</b> Group\n\n"
-        "Click /invite if you want to join the A GRoUP Of eBooKz® Group.\n\n"
+        "of <b>Audoroom</b> Group\n\n"
+        "Click /invite if you want to join the Audoroom Group.\n\n"
         "<b>Do not request books through this bot!</b>\n"
         "press Menu button to find out the list of actions you can "
         "perform using the bot.\n\n"
@@ -122,7 +122,7 @@ class Message:
 
     INFORM_APPROVAL = (
         "Congratulations, you have been approved and added to "
-        "<b>A GRoUP Of eBooKz® group</b>."
+        "<b>Audoroom group</b>."
         "\nPlease read all the pinned messages before making any request.\n"
     )
 
@@ -174,10 +174,10 @@ class Message:
     START_GROUP = "I'm all alive and functioning."
 
     START_PRIVATE = (
-        "<b>Welcome to A GRoUP Of eBooKz® Support Bot 👋</b>\n\n"
+        "<b>Welcome to Audoroom Support Bot 👋</b>\n\n"
         "Please note, that this bot is for contacting admins "
-        "of <b>A GRoUP Of eBooKz®</b> Group\n\n"
-        "Click /invite if you want to join the A GRoUP Of eBooKz® Group.\n\n"
+        "of <b>Audoroom</b> Group\n\n"
+        "Click /invite if you want to join the Audoroom Group.\n\n"
         "<b>Do not request books through this bot!</b>\n"
         "press Menu button to find out the list of actions you can "
         "perform using the bot.\n\n"
