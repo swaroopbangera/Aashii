@@ -26,7 +26,7 @@ commands = {
         BotCommand("start", "Start the adventure"),
     ],
     "private": [
-        ("invite", "Request to join A GRoUP Of eBooKz®"),
+        ("invite", "Request to join Audoroom"),
         ("query", "General queries, appeals etc"),
     ],  # FIXME: Keep it hardcoded? [_command(fname) for fname in os.listdir("data/static")],
 }
